@@ -1,0 +1,33 @@
+# === 敏感 / 配置 ===
+config.json
+credentials.json
+cookies.txt
+*.env
+.env
+
+# === 大型二进制文件 ===
+*.exe
+*.dll
+*.so
+
+# === 构建产物 ===
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+
+# === OCR 临时输出 ===
+ocr_result*.txt
+output.txt
+error.log
+error.txt
+
+# === Node ===
+node_modules/
+package-lock.json
+
+# === 杂项 ===
+.DS_Store
+Thumbs.db

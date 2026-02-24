@@ -1,0 +1,6 @@
+groq
+google-genai
+gspread
+google-auth
+webvtt-py
+tkinterdnd2
